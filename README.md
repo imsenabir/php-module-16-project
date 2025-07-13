@@ -15,7 +15,7 @@ Submission for **Module 16 Assignment** in the Laravel course. This project cove
 - Header, footer, and reusable elements as partials
 
 ### 2. 🗃️ Database Migrations
-- Schema based on provided diagram: [Database Diagram Link](https://drive.google.com/)
+- Schema based on provided diagram: [Database Diagram Link](https://drive.google.com/file/d/1ydarI9ogF6ydn_99KyphqPg33SVATTm-/view?usp=sharing)
 - Models and relationships implemented using migrations
 
 ### 3. ✉️ Contact Form
@@ -41,10 +41,7 @@ Submission for **Module 16 Assignment** in the Laravel course. This project cove
 ## 🎥 Presentation Video
 
 Watch the project walkthrough:  
-🔗 [Google Drive Video Link](https://drive.google.com/)
-
-Database Diagram:  
-<img width="1851" height="831" alt="image" src="https://github.com/user-attachments/assets/" />
+🔗 [Google Drive Video Link](https://drive.google.com/file/d/1E9zjcp-ykCTuy37RljSxUnnYmx8Uv-WF/view?usp=sharing)
 
 ---
 
